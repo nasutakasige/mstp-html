@@ -1,0 +1,8 @@
+body {
+    background-image:url("img/top_backgroundimage.jpg");
+}
+
+.body-image {
+    margin-top: 80px;
+    width: 80%;
+}
