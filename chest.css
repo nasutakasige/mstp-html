@@ -1,0 +1,50 @@
+body {
+    background-image: url("img/background_chest.jpg");
+    background-size:cover;
+    
+}
+
+.top-title {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 85px;
+}
+
+.t-container {
+    background-color: #d3d3d3;
+    height: 220px;
+    width: 80%;
+    margin: 150px auto;
+    border-radius: 40px;
+    border: 2px solid red;
+}
+
+.t-bottom {
+    margin-top: 75px;
+}
+
+.t-category {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.t-rank {
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.mt-logo {
+    width: 150%;
+    margin-left: -30px;
+    margin-top: -50px;
+}
+
+.fw-logo {
+    width:130%;
+}
